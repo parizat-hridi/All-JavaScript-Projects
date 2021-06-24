@@ -1,0 +1,13 @@
+button{
+   margin: 25vh;
+
+    
+}
+
+.button_action{
+    background-color: coral;
+    height: 60vh;
+    width: 50vh;
+    margin-top: 200px;
+    margin-left: 70vh;
+}
