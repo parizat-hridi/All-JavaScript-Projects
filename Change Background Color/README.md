@@ -3,7 +3,7 @@
 ## What is this "Change Background Color" about?
 The [ChangeBackgroundColor](https://codepen.io/bintaparizat/pen/wvJLxyv) is designed to practice and explore basic HTML, CSS and JavaScript.
 
-##Visual Representation of my project :
+## Visual Representation of my project :
 
 ###Before Changing Background Color :
 ![BeforeChanging](https://user-images.githubusercontent.com/43074604/123236823-f0b35b80-d4fe-11eb-9813-448c8fbd688d.PNG)
